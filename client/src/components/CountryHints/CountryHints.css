@@ -1,0 +1,26 @@
+.hints{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.hints__hint-type{
+    font-weight: bold;
+}
+
+.hints__hint-type-inactive{
+    color: #777;
+}
+
+.hints__button-new{
+    margin-top: 0.8rem;
+}
+
+.hints__button-all{
+    margin-left: 20px;
+}
+
+.hints__flag-size{
+    width: 20px;
+    display: inline-block;
+    margin-left: 0.6rem;
+}
